@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:1.0.0-devel-gpu
+FROM tensorflow/tensorflow:0.12.0-devel-gpu
 
 # Download and build Magenta.
 
